@@ -1,4 +1,4 @@
-package leecode_7_22;
+package leetcode_7_22;
 
 import define.ListNode;
 
