@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41d7e4bf-dad4-4ebb-84ce-e4fad5fc7e36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode_8_10/SwapPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表专项练习/DetectCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表专项练习/GetIntersectionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表专项练习/HasCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表专项练习/ReverseList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -180,12 +175,6 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="链表专项练习" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -330,7 +319,7 @@
       <workItem from="1565344723881" duration="1322000" />
       <workItem from="1565347974593" duration="9000" />
       <workItem from="1565411797560" duration="8469000" />
-      <workItem from="1565496575211" duration="1482000" />
+      <workItem from="1565496575211" duration="1735000" />
     </task>
     <task id="LOCAL-00001" summary="刷题刷题">
       <created>1565316132060</created>
@@ -353,15 +342,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565411833187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="刷题刷题">
+      <created>1565502677585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565502677585</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60128000" />
+    <option name="totallyTimeSpent" value="60381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30937168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
